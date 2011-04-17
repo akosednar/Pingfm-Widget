@@ -1,5 +1,5 @@
 Ping.fm Widget
-=============
+==============
 @author Anthony Kosednar <anthony.kosednar@gmail.com>
 
 Ping.fm Widget is a web appilcation I started in 2008 based off of Dmitri Gaskin's PHPingFM framework. 
