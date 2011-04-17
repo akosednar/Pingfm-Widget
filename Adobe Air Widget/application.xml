@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<application xmlns="http://ns.adobe.com/air/application/1.1">
+    <id>anthony.kosednar.at.gmail.com.ping.fm</id>
+    <filename>Pingfm Desktop Widget</filename>
+    <name>Ping.fm Desktop Widget</name>
+    <version>3.0</version>
+    <description>A desktop widget for the popular ping.fm service</description>
+    <copyright>Copyright Anthony Kosednar 2008</copyright>
+    <initialWindow>
+        <content>start.html</content>
+        <visible>true</visible>
+        <minimizable>true</minimizable>
+        <maximizable>false</maximizable>
+        <width>475</width>
+        <height>350</height>
+    </initialWindow>
+    <allowBrowserInvocation>true</allowBrowserInvocation>
+    <icon>
+	  <image16x16>PingFm_16.png</image16x16>
+	  <image32x32>PingFm_32.png</image32x32>
+	  <image48x48>PingFm_48.png</image48x48>
+	  <image128x128>PingFm_128.png</image128x128>
+    </icon>
+</application>

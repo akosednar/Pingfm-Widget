@@ -1,0 +1,50 @@
+<html>
+<head>
+    <title>Ping.fm Widget</title>
+    <link rel="stylesheet" type="text/css" href="http://pingwidget.com/css/style.css" />
+    <script type="text/javascript" src="http://pingwidget.com/js/AIRAliases.js"></script>
+    <script type="text/javascript">
+      function appLoad(){
+      air.trace("Ping.fm Widget");
+    } 
+</script>
+</head>
+<body onload="appLoad()">
+<br>
+<div id="wrap">
+	<div id="content">
+		<img src="http://pingwidget.com/images/ping.fm-logo.png" id="logo" />
+<strong>Welcome:</strong><br><br>
+<center>
+<!-- Style for error message box -->
+<style type="text/css">
+.msgbox{border:solid 1px #CC0000; padding:4px; background:#F3AAAE; margin-bottom:20px;}
+</style>
+
+<!-- Show error message if login fails -->
+
+<!-- Show error message if login fails -->
+
+<!-- Login Basic Form -->
+<form name="login" action="http://pingwidget.com/includes/login.php" method="post">
+<br>
+<center>
+   Welcome to the Ping.fm Desktop Widget<br><br>
+   <bold>- Version 3.0</bold><br><br>
+	<input name="version" value="30" type="hidden">
+    <input type="submit" name="button" id="button" value=" Enter " /><br>
+<br>
+<br>
+</form>
+	</div>
+	<div id="nav">
+<a href="#">Home</a>
+<a href="#">Post</a>
+<a href="#">Recent</a>
+<a href="#">Settings</a>
+<a href="#">More</a>
+	</div>	
+</div>
+<div id="copyright">&copy; 2008 Anthony Kosednar</div>
+</body>
+</html>
