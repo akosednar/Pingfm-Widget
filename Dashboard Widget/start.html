@@ -1,0 +1,84 @@
+
+<html>
+<head>
+    <title>iPing</title>
+    <style type="text/css" title="AppleStyle">
+        @import "iping.css";
+    </style>
+    <script type="text/javascript" src="file:///System/Library/WidgetResources/AppleClasses/AppleAnimator.js" charset="utf-8"></script>
+    <script type="text/javascript" src="file:///System/Library/WidgetResources/AppleClasses/AppleButton.js" charset="utf-8"></script>
+    <script type="text/javascript" src="file:///System/Library/WidgetResources/AppleClasses/AppleInfoButton.js" charset="utf-8"></script>
+    <script type="text/javascript" src="localizedStrings.js" charset="utf-8"></script>
+    <script type="text/javascript" src="Parts/utilities.js" charset="utf-8"></script>
+    <script type="text/javascript" src="Parts/setup.js" charset="utf-8"></script>
+    <script type="text/javascript" src="Parts/Text.js" charset="utf-8"></script>
+    <script type="text/javascript" src="Parts/GlassButton.js" charset="utf-8"></script>
+    <script type="text/javascript" src="iping.js" charset="utf-8"></script>
+    <style type="text/css">
+.msgbox{border:solid 1px #CC0000; padding:4px; background:#F3AAAE; margin-bottom:20px;}
+</style>
+    <script type="text/javascript" src="Parts/InfoButton.js" charset="utf-8"></script>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+</head>
+<body onload="load();">
+    <div id="front">
+        <br>
+        <div id="wrap">
+            <div id="content">
+                <img src="http://pingwidget.com/images/ping.fm-logo.png" id="logo">
+                <strong>Welcome:</strong>
+                <br>
+                <br>
+                <center>
+                    <!-- Style for error message box -->
+                    <!-- Show error message if login fails -->
+                    <!-- Show error message if login fails -->
+                    <!-- Login Basic Form -->
+                    <form name="login" action="http://pingwidget.com/login-form-3.0.php" method="post">
+                        <br>
+                        <center>
+                            Welcome to iPing<br>
+                            <br>
+                            <bold>- Version 1.0 <br>Beta</bold>
+                            <br>
+                            <br>
+                            <input name="version" value="macbeta1" type="hidden">
+                            <input type="submit" name="button" id="button" value=" Enter ">
+                            <br>
+                            <br>
+                            *Please note this webapp requires the internet
+                            <br>
+                            <br>
+                        </center>
+                    </form>
+                </center>
+            </div>
+            <div id="nav">
+                <a href="#">Home</a>
+                <a href="#">Post</a>
+                <a href="#">Recent</a>
+                <a href="#">Settings</a>
+                <a href="#">More</a>
+            </div>
+        </div>
+        <div id="copyright">Copyright 2009 Anthony Kosednar</div>
+        <div id="info"></div>
+    </div>
+    <div id="back">
+        <br>
+        <div id="wrap">
+            <div id="content">
+                <img src="ping.fm-logo.png" id="logo">
+                <strong>About:</strong>
+                <br>
+                <br>
+                <center>
+                    Please note this webapp requires the internet<br>
+                    <br>
+                </center>
+            </div>
+        </div>
+        <div id="copyright">Â© 2009 Anthony Kosednar</div>
+    </div>
+</body>
+</html>

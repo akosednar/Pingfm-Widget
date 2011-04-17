@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>AllowInternetPlugins</key>
+	<true/>
+	<key>AllowJava</key>
+	<true/>
+	<key>AllowNetworkAccess</key>
+	<true/>
+	<key>CFBundleDevelopmentRegion</key>
+	<string>English</string>
+	<key>CFBundleDisplayName</key>
+	<string>iping</string>
+	<key>CFBundleIdentifier</key>
+	<string>anthony.kosednar.iping</string>
+	<key>CFBundleName</key>
+	<string>iping</string>
+	<key>CFBundleShortVersionString</key>
+	<string>1.0</string>
+	<key>CFBundleVersion</key>
+	<string>1.0</string>
+	<key>CloseBoxInsetX</key>
+	<integer>8</integer>
+	<key>CloseBoxInsetY</key>
+	<integer>9</integer>
+	<key>Height</key>
+	<integer>296</integer>
+	<key>MainHTML</key>
+	<string>start.html</string>
+	<key>Width</key>
+	<integer>544</integer>
+</dict>
+</plist>
