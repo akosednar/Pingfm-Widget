@@ -13,6 +13,7 @@ This was my first project on the web application/project. I there are mistakes, 
 
 As such, do not take this code with a grain of salt, and with the knowledge that it was written by a 14 year old at the time. :)
 
+For the most part, I have uploaded the raw code I created (unmodified since 2009). I may edit a few things later on, but for now it pretty much is the same as it has been. If something does not work though, it might be from one of the edits I actually did :)
 
 Contents
 ---------
