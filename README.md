@@ -33,10 +33,10 @@ Licensing
 
 * PHPingFM.php is  Copyright (c) 2008 Dmitri Gaskin, http://dmitrizone.com/ . 
 
-Dual licensed under the MIT (MIT-LICENSE.txt) and GPL (GPL-LICENSE.txt) licenses.
+  Dual licensed under the MIT (MIT-LICENSE.txt) and GPL (GPL-LICENSE.txt) licenses.
 
 
 * All other code is Copyright (c) 2011 Anthony Kosednar, http://anthonykosednar.com/ . 
 
-Dual licensed under the MIT (MIT-LICENSE.txt) and GPL (GPL-LICENSE.txt) licenses.
+  Dual licensed under the MIT (MIT-LICENSE.txt) and GPL (GPL-LICENSE.txt) licenses.
 
